@@ -1,0 +1,501 @@
+CustomerID,DateTime,VisitedPage,PerformedTask,CustomerName,Device,UserAgent,City,Country,OS
+1092,1/30/2023 15:44,Customer Orders,Track Order Status,Customer 95,Desktop,Firefox,Kolkata,India,Linux
+1012,1/31/2023 4:48,Analytics,Analyze Customer Trends,Customer 76,Mobile,Firefox,Kolkata,India,Linux
+1030,1/31/2023 6:35,CRM,View Customer History,Customer 75,Mobile,Edge,Bangalore,India,Linux
+1064,1/31/2023 21:15,Customer Orders,Track Order Status,Customer 67,Tablet,Firefox,Delhi,India,Windows
+1036,1/31/2023 22:39,Digital Gold Plans,Enroll in Plan,Customer 76,Mobile,Edge,Pune,India,Linux
+1077,2/1/2023 0:48,Analytics,View Sales Analytics,Customer 77,Tablet,Safari,Bangalore,India,Linux
+1062,2/1/2023 11:25,Digital Gold Plans,Update Plan,Customer 85,Desktop,Chrome,Ahmedabad,India,Android
+1081,2/1/2023 15:34,Orders,Cancel Order,Customer 10,Mobile,Firefox,Kolkata,India,Windows
+1020,2/1/2023 17:57,Settings,Change Password,Customer 36,Tablet,Safari,Delhi,India,Linux
+1001,2/1/2023 17:57,Pricing Calculator,Compare Prices,Customer 52,Tablet,Edge,Chennai,India,Android
+1038,2/1/2023 22:04,Analytics,View Sales Analytics,Customer 7,Mobile,Firefox,Hyderabad,India,Linux
+1008,2/1/2023 22:20,Digital Gold Plans,Update Plan,Customer 32,Tablet,Edge,Hyderabad,India,macOS
+1048,2/4/2023 19:45,Settings,Configure Notifications,Customer 28,Desktop,Chrome,Delhi,India,Linux
+1076,2/4/2023 20:43,Orders,Create New Order,Customer 11,Tablet,Edge,Kolkata,India,Android
+1018,2/5/2023 0:55,CRM,View Customer History,Customer 49,Desktop,Chrome,Chennai,India,macOS
+1054,2/5/2023 13:07,Catalog Creation,Edit Catalog,Customer 73,Mobile,Chrome,Hyderabad,India,Windows
+1045,2/6/2023 23:49,CRM,View Customer History,Customer 90,Mobile,Chrome,Ahmedabad,India,Windows
+1065,2/8/2023 23:54,Orders,Cancel Order,Customer 80,Tablet,Safari,Hyderabad,India,Windows
+1075,2/9/2023 6:45,Product Management,Update Product Info,Customer 27,Mobile,Chrome,Jaipur,India,Linux
+1024,2/9/2023 6:59,Digital Gold Plans,View Plan Details,Customer 70,Mobile,Firefox,Lucknow,India,Android
+1081,2/11/2023 16:52,Dashboard,View Sales Summary,Customer 83,Desktop,Edge,Chennai,India,Windows
+1091,2/13/2023 17:19,Customer Orders,View Order Details,Customer 65,Desktop,Chrome,Hyderabad,India,Android
+1084,2/14/2023 11:44,Customer Orders,View Order Details,Customer 37,Mobile,Safari,Bangalore,India,Windows
+1069,2/15/2023 1:32,Catalog Creation,Publish Catalog,Customer 33,Mobile,Chrome,Ahmedabad,India,iOS
+1018,2/15/2023 4:05,Catalog Creation,Edit Catalog,Customer 38,Tablet,Firefox,Ahmedabad,India,macOS
+1006,2/15/2023 10:03,Settings,Configure Notifications,Customer 83,Desktop,Safari,Chennai,India,Linux
+1093,2/15/2023 10:55,Dashboard,Check KPIs,Customer 78,Mobile,Edge,Ahmedabad,India,macOS
+1100,2/16/2023 4:59,CRM,Update Customer Info,Customer 84,Tablet,Safari,Kolkata,India,macOS
+1099,2/16/2023 15:27,Analytics,Generate Reports,Customer 67,Desktop,Firefox,Hyderabad,India,iOS
+1018,2/18/2023 6:42,CRM,View Customer History,Customer 41,Tablet,Chrome,Chennai,India,Android
+1083,2/19/2023 14:39,Settings,Configure Notifications,Customer 1,Mobile,Chrome,Chennai,India,macOS
+1068,2/20/2023 7:24,Catalog Creation,Edit Catalog,Customer 39,Mobile,Chrome,Ahmedabad,India,iOS
+1015,2/20/2023 13:52,Digital Gold Plans,View Plan Details,Customer 65,Mobile,Chrome,Delhi,India,Android
+1056,2/23/2023 6:28,Orders,Cancel Order,Customer 10,Desktop,Edge,Hyderabad,India,iOS
+1023,2/24/2023 7:16,Product Management,Update Product Info,Customer 63,Desktop,Chrome,Delhi,India,Android
+1034,2/25/2023 5:42,CRM,Update Customer Info,Customer 50,Mobile,Chrome,Lucknow,India,iOS
+1032,2/25/2023 6:09,Pricing Calculator,Adjust Pricing Strategy,Customer 4,Tablet,Edge,Bangalore,India,macOS
+1070,2/25/2023 15:54,Analytics,Analyze Customer Trends,Customer 6,Mobile,Chrome,Lucknow,India,macOS
+1078,2/26/2023 13:15,CRM,Add New Customer,Customer 82,Mobile,Safari,Delhi,India,iOS
+1004,2/26/2023 15:47,Analytics,Generate Reports,Customer 19,Desktop,Chrome,Pune,India,macOS
+1078,2/28/2023 10:17,Digital Gold Plans,Enroll in Plan,Customer 46,Tablet,Chrome,Ahmedabad,India,iOS
+1098,2/28/2023 17:46,Dashboard,View Sales Summary,Customer 76,Tablet,Chrome,Delhi,India,iOS
+1017,3/1/2023 6:22,Orders,Create New Order,Customer 65,Desktop,Firefox,Delhi,India,Linux
+1066,3/2/2023 0:32,Analytics,View Sales Analytics,Customer 39,Tablet,Edge,Delhi,India,Windows
+1055,3/2/2023 9:02,Settings,Update Profile,Customer 42,Tablet,Edge,Chennai,India,macOS
+1044,3/3/2023 10:07,Customer Orders,View Order Details,Customer 18,Mobile,Chrome,Ahmedabad,India,iOS
+1074,3/3/2023 17:06,Analytics,Generate Reports,Customer 45,Tablet,Safari,Chennai,India,Windows
+1040,3/4/2023 4:06,Settings,Configure Notifications,Customer 19,Desktop,Edge,Jaipur,India,iOS
+1048,3/4/2023 7:36,Catalog Creation,Edit Catalog,Customer 64,Mobile,Edge,Mumbai,India,macOS
+1061,3/4/2023 13:40,Product Management,Delete Product,Customer 7,Mobile,Chrome,Delhi,India,iOS
+1006,3/4/2023 15:45,Digital Gold Plans,Enroll in Plan,Customer 80,Desktop,Safari,Jaipur,India,Android
+1008,3/5/2023 10:14,Dashboard,Review Performance Metrics,Customer 55,Tablet,Firefox,Jaipur,India,Android
+1006,3/6/2023 10:00,Dashboard,View Sales Summary,Customer 61,Mobile,Firefox,Pune,India,Linux
+1071,3/7/2023 18:40,Catalog Creation,Create New Catalog,Customer 40,Tablet,Safari,Bangalore,India,macOS
+1074,3/8/2023 19:41,Pricing Calculator,Adjust Pricing Strategy,Customer 1,Tablet,Safari,Ahmedabad,India,macOS
+1086,3/9/2023 7:26,CRM,Add New Customer,Customer 38,Tablet,Firefox,Bangalore,India,Windows
+1082,3/9/2023 10:52,CRM,Add New Customer,Customer 37,Desktop,Safari,Bangalore,India,iOS
+1030,3/10/2023 8:48,Orders,Create New Order,Customer 8,Tablet,Edge,Jaipur,India,macOS
+1040,3/10/2023 11:23,Catalog Creation,Create New Catalog,Customer 46,Mobile,Chrome,Delhi,India,macOS
+1003,3/10/2023 12:51,Settings,Update Profile,Customer 12,Mobile,Edge,Pune,India,Windows
+1052,3/11/2023 8:35,Customer Orders,Generate Order Report,Customer 5,Desktop,Firefox,Jaipur,India,Android
+1041,3/11/2023 23:53,Customer Orders,View Order Details,Customer 71,Mobile,Firefox,Pune,India,macOS
+1033,3/12/2023 12:39,Customer Orders,Generate Order Report,Customer 39,Tablet,Edge,Bangalore,India,Windows
+1100,3/13/2023 1:50,Customer Orders,Generate Order Report,Customer 41,Mobile,Safari,Delhi,India,Android
+1055,3/13/2023 14:19,Analytics,Generate Reports,Customer 63,Desktop,Chrome,Lucknow,India,macOS
+1047,3/15/2023 3:43,Catalog Creation,Publish Catalog,Customer 71,Tablet,Chrome,Hyderabad,India,Android
+1033,3/15/2023 12:37,Customer Orders,Generate Order Report,Customer 81,Tablet,Firefox,Mumbai,India,macOS
+1033,3/16/2023 6:10,Customer Orders,View Order Details,Customer 35,Desktop,Safari,Lucknow,India,Linux
+1008,3/17/2023 21:13,CRM,View Customer History,Customer 81,Mobile,Chrome,Ahmedabad,India,iOS
+1090,3/18/2023 7:19,Customer Orders,Generate Order Report,Customer 97,Tablet,Chrome,Jaipur,India,Windows
+1070,3/20/2023 2:30,Dashboard,Check KPIs,Customer 29,Mobile,Safari,Ahmedabad,India,macOS
+1024,3/20/2023 2:54,Analytics,Generate Reports,Customer 33,Tablet,Safari,Bangalore,India,iOS
+1088,3/20/2023 10:16,Catalog Creation,Publish Catalog,Customer 50,Desktop,Edge,Hyderabad,India,Linux
+1019,3/23/2023 12:53,Pricing Calculator,Compare Prices,Customer 9,Mobile,Firefox,Delhi,India,Android
+1033,3/24/2023 14:20,Pricing Calculator,Adjust Pricing Strategy,Customer 22,Desktop,Chrome,Ahmedabad,India,Linux
+1025,3/25/2023 6:44,CRM,Add New Customer,Customer 51,Desktop,Edge,Hyderabad,India,iOS
+1061,3/25/2023 16:20,Digital Gold Plans,Update Plan,Customer 25,Tablet,Firefox,Kolkata,India,Windows
+1099,3/26/2023 14:31,Catalog Creation,Edit Catalog,Customer 17,Desktop,Firefox,Chennai,India,iOS
+1040,3/27/2023 1:40,Settings,Configure Notifications,Customer 86,Mobile,Safari,Hyderabad,India,Android
+1055,3/27/2023 19:09,Customer Orders,View Order Details,Customer 11,Tablet,Edge,Bangalore,India,iOS
+1053,3/27/2023 23:55,Analytics,Generate Reports,Customer 33,Tablet,Chrome,Pune,India,Linux
+1054,3/29/2023 0:45,Settings,Update Profile,Customer 9,Desktop,Safari,Mumbai,India,iOS
+1062,3/29/2023 8:45,Analytics,View Sales Analytics,Customer 60,Tablet,Edge,Ahmedabad,India,iOS
+1077,3/30/2023 7:12,Pricing Calculator,Compare Prices,Customer 71,Desktop,Safari,Lucknow,India,iOS
+1064,3/31/2023 3:56,Digital Gold Plans,View Plan Details,Customer 91,Tablet,Firefox,Mumbai,India,iOS
+1076,4/1/2023 11:11,Analytics,View Sales Analytics,Customer 92,Mobile,Chrome,Lucknow,India,Android
+1036,4/1/2023 23:15,Settings,Configure Notifications,Customer 46,Desktop,Edge,Chennai,India,iOS
+1064,4/3/2023 12:13,CRM,Update Customer Info,Customer 90,Mobile,Edge,Hyderabad,India,Windows
+1059,4/3/2023 20:23,Pricing Calculator,Compare Prices,Customer 21,Mobile,Safari,Pune,India,Android
+1007,4/4/2023 11:53,Catalog Creation,Create New Catalog,Customer 85,Mobile,Edge,Lucknow,India,Android
+1094,4/5/2023 0:05,Customer Orders,Track Order Status,Customer 78,Tablet,Firefox,Chennai,India,iOS
+1009,4/5/2023 17:22,Pricing Calculator,Adjust Pricing Strategy,Customer 35,Mobile,Chrome,Bangalore,India,Linux
+1067,4/6/2023 6:24,Digital Gold Plans,View Plan Details,Customer 5,Mobile,Safari,Chennai,India,iOS
+1047,4/6/2023 13:22,Digital Gold Plans,Update Plan,Customer 49,Tablet,Chrome,Kolkata,India,Android
+1091,4/6/2023 13:38,Analytics,View Sales Analytics,Customer 79,Tablet,Firefox,Jaipur,India,macOS
+1051,4/6/2023 16:32,CRM,Add New Customer,Customer 25,Desktop,Edge,Bangalore,India,Windows
+1082,4/7/2023 23:39,Customer Orders,Track Order Status,Customer 66,Tablet,Edge,Hyderabad,India,Linux
+1073,4/8/2023 3:04,Dashboard,Check KPIs,Customer 44,Tablet,Firefox,Delhi,India,Linux
+1060,4/9/2023 10:56,Analytics,View Sales Analytics,Customer 78,Desktop,Safari,Ahmedabad,India,Linux
+1077,4/9/2023 19:03,Analytics,Analyze Customer Trends,Customer 98,Desktop,Firefox,Pune,India,Android
+1004,4/10/2023 8:54,Orders,Update Order Status,Customer 77,Desktop,Firefox,Delhi,India,Linux
+1093,4/11/2023 2:03,Customer Orders,Generate Order Report,Customer 17,Mobile,Firefox,Pune,India,Linux
+1022,4/12/2023 0:49,CRM,Update Customer Info,Customer 58,Tablet,Chrome,Kolkata,India,macOS
+1017,4/12/2023 2:54,Digital Gold Plans,Enroll in Plan,Customer 6,Tablet,Safari,Mumbai,India,macOS
+1077,4/12/2023 17:39,CRM,Add New Customer,Customer 98,Desktop,Safari,Jaipur,India,macOS
+1044,4/14/2023 8:38,Catalog Creation,Create New Catalog,Customer 96,Desktop,Firefox,Jaipur,India,Linux
+1020,4/14/2023 13:04,Product Management,Delete Product,Customer 9,Tablet,Firefox,Kolkata,India,Linux
+1087,4/14/2023 18:35,Orders,Update Order Status,Customer 34,Desktop,Chrome,Ahmedabad,India,iOS
+1053,4/15/2023 19:31,Catalog Creation,Publish Catalog,Customer 55,Tablet,Safari,Delhi,India,Android
+1057,4/16/2023 23:29,CRM,Add New Customer,Customer 65,Tablet,Chrome,Mumbai,India,iOS
+1071,4/17/2023 1:54,Analytics,View Sales Analytics,Customer 33,Tablet,Safari,Hyderabad,India,Android
+1029,4/17/2023 5:27,Customer Orders,View Order Details,Customer 96,Desktop,Safari,Ahmedabad,India,iOS
+1008,4/17/2023 9:20,Analytics,View Sales Analytics,Customer 3,Tablet,Chrome,Lucknow,India,macOS
+1055,4/17/2023 11:34,Orders,Cancel Order,Customer 28,Mobile,Chrome,Hyderabad,India,Linux
+1035,4/18/2023 2:10,Digital Gold Plans,Enroll in Plan,Customer 81,Tablet,Edge,Bangalore,India,macOS
+1068,4/19/2023 19:40,CRM,View Customer History,Customer 88,Desktop,Firefox,Delhi,India,iOS
+1048,4/20/2023 11:38,Product Management,Update Product Info,Customer 67,Tablet,Edge,Delhi,India,Android
+1039,4/20/2023 20:26,Orders,Update Order Status,Customer 72,Mobile,Edge,Lucknow,India,Windows
+1049,4/20/2023 23:30,Pricing Calculator,Compare Prices,Customer 46,Tablet,Edge,Pune,India,Windows
+1035,4/22/2023 11:04,Dashboard,Review Performance Metrics,Customer 21,Mobile,Safari,Delhi,India,Linux
+1091,4/22/2023 11:32,Customer Orders,Track Order Status,Customer 65,Mobile,Firefox,Mumbai,India,Linux
+1015,4/22/2023 19:30,Digital Gold Plans,View Plan Details,Customer 8,Tablet,Safari,Mumbai,India,iOS
+1069,4/23/2023 12:39,Digital Gold Plans,Enroll in Plan,Customer 90,Desktop,Firefox,Hyderabad,India,Android
+1025,4/24/2023 1:41,Pricing Calculator,Calculate Price,Customer 25,Tablet,Firefox,Lucknow,India,Android
+1055,4/25/2023 5:41,Orders,Cancel Order,Customer 66,Mobile,Safari,Pune,India,macOS
+1004,4/25/2023 16:03,CRM,View Customer History,Customer 100,Tablet,Firefox,Bangalore,India,iOS
+1048,4/26/2023 0:53,Catalog Creation,Edit Catalog,Customer 63,Tablet,Chrome,Lucknow,India,macOS
+1043,4/26/2023 12:33,CRM,Add New Customer,Customer 95,Desktop,Edge,Delhi,India,iOS
+1001,4/26/2023 15:17,Settings,Update Profile,Customer 35,Mobile,Chrome,Lucknow,India,iOS
+1037,4/27/2023 5:09,Pricing Calculator,Compare Prices,Customer 93,Desktop,Firefox,Bangalore,India,Linux
+1068,4/28/2023 6:42,Catalog Creation,Edit Catalog,Customer 99,Desktop,Safari,Ahmedabad,India,Linux
+1031,4/28/2023 17:30,CRM,Update Customer Info,Customer 22,Tablet,Safari,Jaipur,India,Android
+1050,4/29/2023 6:04,Customer Orders,Generate Order Report,Customer 88,Tablet,Safari,Lucknow,India,Android
+1048,4/29/2023 13:44,CRM,View Customer History,Customer 18,Mobile,Firefox,Ahmedabad,India,Linux
+1030,5/2/2023 13:29,Product Management,Add New Product,Customer 70,Mobile,Chrome,Mumbai,India,Windows
+1094,5/2/2023 17:02,CRM,Add New Customer,Customer 4,Mobile,Firefox,Delhi,India,Android
+1048,5/5/2023 2:10,Catalog Creation,Create New Catalog,Customer 90,Mobile,Edge,Delhi,India,macOS
+1094,5/5/2023 12:30,CRM,View Customer History,Customer 22,Desktop,Edge,Delhi,India,Windows
+1049,5/5/2023 21:41,Settings,Update Profile,Customer 60,Mobile,Edge,Bangalore,India,macOS
+1014,5/5/2023 23:07,Analytics,View Sales Analytics,Customer 7,Mobile,Edge,Lucknow,India,iOS
+1056,5/6/2023 5:49,Pricing Calculator,Calculate Price,Customer 62,Tablet,Chrome,Jaipur,India,iOS
+1002,5/7/2023 7:12,Orders,Cancel Order,Customer 84,Desktop,Firefox,Pune,India,iOS
+1067,5/7/2023 8:20,Dashboard,Review Performance Metrics,Customer 23,Mobile,Firefox,Delhi,India,Android
+1008,5/7/2023 23:32,Catalog Creation,Edit Catalog,Customer 24,Desktop,Safari,Lucknow,India,Android
+1029,5/8/2023 3:46,Dashboard,View Sales Summary,Customer 86,Tablet,Chrome,Delhi,India,iOS
+1029,5/8/2023 5:44,Customer Orders,Generate Order Report,Customer 77,Desktop,Firefox,Jaipur,India,Android
+1095,5/8/2023 16:05,Settings,Update Profile,Customer 23,Desktop,Chrome,Chennai,India,Android
+1081,5/9/2023 17:40,CRM,View Customer History,Customer 61,Mobile,Firefox,Lucknow,India,macOS
+1065,5/11/2023 6:51,Orders,Update Order Status,Customer 11,Desktop,Chrome,Lucknow,India,Linux
+1041,5/11/2023 19:33,Orders,Cancel Order,Customer 79,Mobile,Firefox,Chennai,India,iOS
+1031,5/11/2023 20:38,Settings,Configure Notifications,Customer 58,Tablet,Chrome,Mumbai,India,Windows
+1007,5/12/2023 5:55,Analytics,View Sales Analytics,Customer 42,Mobile,Safari,Jaipur,India,Linux
+1062,5/13/2023 4:22,Pricing Calculator,Calculate Price,Customer 70,Tablet,Edge,Ahmedabad,India,Linux
+1031,5/13/2023 16:06,Dashboard,View Sales Summary,Customer 40,Tablet,Chrome,Bangalore,India,macOS
+1086,5/15/2023 9:35,Dashboard,Review Performance Metrics,Customer 75,Mobile,Firefox,Mumbai,India,iOS
+1005,5/16/2023 14:10,Analytics,View Sales Analytics,Customer 62,Mobile,Edge,Pune,India,Windows
+1084,5/17/2023 16:17,Settings,Update Profile,Customer 91,Desktop,Chrome,Lucknow,India,Windows
+1093,5/18/2023 0:33,Dashboard,Check KPIs,Customer 27,Mobile,Firefox,Kolkata,India,macOS
+1067,5/19/2023 18:21,Pricing Calculator,Calculate Price,Customer 84,Tablet,Safari,Jaipur,India,Linux
+1094,5/20/2023 7:17,Catalog Creation,Create New Catalog,Customer 47,Desktop,Safari,Ahmedabad,India,macOS
+1089,5/20/2023 20:54,Pricing Calculator,Adjust Pricing Strategy,Customer 17,Mobile,Firefox,Hyderabad,India,Windows
+1059,5/21/2023 7:12,CRM,Update Customer Info,Customer 2,Desktop,Chrome,Kolkata,India,Linux
+1049,5/21/2023 7:48,Catalog Creation,Create New Catalog,Customer 84,Desktop,Edge,Mumbai,India,Linux
+1008,5/21/2023 8:29,CRM,Add New Customer,Customer 79,Tablet,Edge,Hyderabad,India,macOS
+1050,5/23/2023 1:15,Digital Gold Plans,Update Plan,Customer 10,Tablet,Firefox,Mumbai,India,iOS
+1096,5/23/2023 11:37,Analytics,View Sales Analytics,Customer 64,Tablet,Chrome,Lucknow,India,Android
+1086,5/23/2023 16:00,CRM,Add New Customer,Customer 64,Mobile,Edge,Chennai,India,Linux
+1021,5/24/2023 0:43,Product Management,Add New Product,Customer 61,Tablet,Chrome,Lucknow,India,Linux
+1003,5/25/2023 11:48,Digital Gold Plans,View Plan Details,Customer 36,Desktop,Edge,Hyderabad,India,Android
+1028,5/27/2023 2:33,Digital Gold Plans,View Plan Details,Customer 100,Tablet,Edge,Mumbai,India,Windows
+1056,5/27/2023 14:43,Analytics,Analyze Customer Trends,Customer 9,Desktop,Safari,Ahmedabad,India,Android
+1005,5/28/2023 6:52,Dashboard,View Sales Summary,Customer 91,Tablet,Firefox,Pune,India,macOS
+1065,5/28/2023 7:23,Product Management,Delete Product,Customer 57,Desktop,Chrome,Hyderabad,India,Linux
+1070,5/28/2023 18:19,Digital Gold Plans,Update Plan,Customer 46,Mobile,Edge,Hyderabad,India,Linux
+1069,5/28/2023 23:56,Settings,Update Profile,Customer 78,Desktop,Chrome,Mumbai,India,iOS
+1088,5/29/2023 14:17,Digital Gold Plans,Update Plan,Customer 62,Desktop,Chrome,Pune,India,Windows
+1035,5/29/2023 15:39,Digital Gold Plans,Update Plan,Customer 90,Mobile,Firefox,Kolkata,India,macOS
+1012,5/29/2023 18:22,Dashboard,Review Performance Metrics,Customer 45,Mobile,Edge,Bangalore,India,Android
+1005,5/31/2023 6:35,CRM,Update Customer Info,Customer 53,Tablet,Firefox,Kolkata,India,Windows
+1062,5/31/2023 18:37,CRM,View Customer History,Customer 15,Tablet,Chrome,Delhi,India,Windows
+1025,6/1/2023 15:34,Digital Gold Plans,View Plan Details,Customer 14,Mobile,Chrome,Delhi,India,macOS
+1063,6/2/2023 0:55,Settings,Update Profile,Customer 59,Mobile,Chrome,Lucknow,India,iOS
+1056,6/3/2023 2:00,Product Management,Add New Product,Customer 7,Mobile,Safari,Ahmedabad,India,macOS
+1064,6/3/2023 6:21,Catalog Creation,Publish Catalog,Customer 73,Tablet,Safari,Chennai,India,macOS
+1053,6/3/2023 12:27,Digital Gold Plans,View Plan Details,Customer 52,Tablet,Chrome,Mumbai,India,iOS
+1028,6/5/2023 7:16,Pricing Calculator,Compare Prices,Customer 15,Mobile,Chrome,Ahmedabad,India,Windows
+1016,6/6/2023 8:27,Orders,Create New Order,Customer 29,Mobile,Edge,Lucknow,India,Windows
+1066,6/6/2023 17:54,Pricing Calculator,Compare Prices,Customer 30,Desktop,Safari,Chennai,India,Android
+1097,6/7/2023 6:01,Product Management,Add New Product,Customer 96,Mobile,Chrome,Jaipur,India,iOS
+1026,6/8/2023 5:01,Analytics,Generate Reports,Customer 95,Tablet,Firefox,Kolkata,India,Windows
+1085,6/8/2023 8:58,Pricing Calculator,Compare Prices,Customer 9,Tablet,Firefox,Jaipur,India,Windows
+1007,6/8/2023 12:41,Pricing Calculator,Calculate Price,Customer 67,Mobile,Safari,Chennai,India,iOS
+1068,6/8/2023 14:58,Catalog Creation,Edit Catalog,Customer 57,Tablet,Chrome,Hyderabad,India,Linux
+1021,6/8/2023 17:17,Product Management,Add New Product,Customer 80,Mobile,Firefox,Delhi,India,Windows
+1083,6/9/2023 2:37,Catalog Creation,Publish Catalog,Customer 57,Desktop,Chrome,Ahmedabad,India,iOS
+1019,6/10/2023 19:11,Catalog Creation,Edit Catalog,Customer 57,Tablet,Edge,Delhi,India,Linux
+1010,6/11/2023 3:39,Pricing Calculator,Compare Prices,Customer 93,Tablet,Edge,Lucknow,India,Linux
+1007,6/11/2023 12:28,Product Management,Update Product Info,Customer 99,Mobile,Safari,Mumbai,India,Windows
+1052,6/12/2023 14:53,Customer Orders,Track Order Status,Customer 38,Mobile,Chrome,Pune,India,Android
+1028,6/14/2023 22:59,Analytics,View Sales Analytics,Customer 43,Tablet,Edge,Kolkata,India,macOS
+1061,6/16/2023 12:31,Settings,Configure Notifications,Customer 89,Mobile,Chrome,Pune,India,Android
+1062,6/17/2023 2:10,Pricing Calculator,Adjust Pricing Strategy,Customer 6,Tablet,Chrome,Mumbai,India,Android
+1012,6/17/2023 4:11,Customer Orders,View Order Details,Customer 15,Desktop,Firefox,Chennai,India,Windows
+1066,6/18/2023 16:59,Settings,Configure Notifications,Customer 57,Desktop,Firefox,Pune,India,iOS
+1003,6/20/2023 11:25,CRM,Update Customer Info,Customer 99,Tablet,Safari,Chennai,India,iOS
+1090,6/20/2023 22:47,Catalog Creation,Publish Catalog,Customer 12,Mobile,Chrome,Delhi,India,Linux
+1043,6/21/2023 3:17,Orders,Update Order Status,Customer 17,Tablet,Edge,Mumbai,India,Android
+1086,6/21/2023 4:06,Digital Gold Plans,View Plan Details,Customer 32,Mobile,Edge,Ahmedabad,India,macOS
+1051,6/22/2023 5:25,Product Management,Update Product Info,Customer 77,Tablet,Chrome,Chennai,India,Linux
+1029,6/22/2023 7:55,Digital Gold Plans,View Plan Details,Customer 59,Desktop,Safari,Hyderabad,India,macOS
+1087,6/22/2023 9:08,Analytics,View Sales Analytics,Customer 60,Desktop,Edge,Ahmedabad,India,Linux
+1039,6/24/2023 1:37,CRM,View Customer History,Customer 65,Desktop,Firefox,Lucknow,India,iOS
+1020,6/25/2023 1:47,Orders,Update Order Status,Customer 62,Desktop,Firefox,Hyderabad,India,Windows
+1075,6/25/2023 4:06,Settings,Change Password,Customer 99,Tablet,Firefox,Jaipur,India,macOS
+1032,6/25/2023 9:20,Digital Gold Plans,Enroll in Plan,Customer 65,Desktop,Chrome,Jaipur,India,Windows
+1014,6/25/2023 20:48,Customer Orders,Generate Order Report,Customer 58,Mobile,Firefox,Hyderabad,India,Linux
+1095,6/29/2023 0:07,Dashboard,View Sales Summary,Customer 17,Desktop,Safari,Bangalore,India,Linux
+1053,6/29/2023 9:29,Product Management,Update Product Info,Customer 5,Mobile,Firefox,Chennai,India,Windows
+1053,6/29/2023 13:02,Catalog Creation,Edit Catalog,Customer 4,Desktop,Chrome,Jaipur,India,iOS
+1018,6/29/2023 16:04,Orders,Cancel Order,Customer 6,Mobile,Chrome,Jaipur,India,macOS
+1053,6/30/2023 5:08,Customer Orders,View Order Details,Customer 95,Desktop,Chrome,Ahmedabad,India,Windows
+1047,6/30/2023 6:30,Orders,Cancel Order,Customer 51,Tablet,Chrome,Pune,India,Linux
+1044,7/1/2023 0:26,Analytics,Analyze Customer Trends,Customer 43,Desktop,Firefox,Ahmedabad,India,macOS
+1003,7/1/2023 0:31,Orders,Create New Order,Customer 85,Desktop,Edge,Jaipur,India,macOS
+1021,7/1/2023 13:59,Analytics,Analyze Customer Trends,Customer 49,Tablet,Firefox,Ahmedabad,India,Android
+1035,7/5/2023 3:05,Settings,Configure Notifications,Customer 46,Desktop,Safari,Delhi,India,macOS
+1089,7/6/2023 4:21,Dashboard,Check KPIs,Customer 16,Tablet,Chrome,Mumbai,India,iOS
+1061,7/6/2023 20:01,Settings,Update Profile,Customer 93,Mobile,Firefox,Delhi,India,Windows
+1044,7/7/2023 17:50,Settings,Change Password,Customer 92,Mobile,Firefox,Ahmedabad,India,iOS
+1074,7/8/2023 21:33,Analytics,Generate Reports,Customer 56,Tablet,Chrome,Lucknow,India,Android
+1014,7/9/2023 5:26,Customer Orders,Track Order Status,Customer 60,Tablet,Firefox,Ahmedabad,India,iOS
+1036,7/10/2023 15:49,Settings,Change Password,Customer 56,Tablet,Firefox,Lucknow,India,macOS
+1053,7/10/2023 23:33,Settings,Configure Notifications,Customer 34,Tablet,Chrome,Delhi,India,macOS
+1068,7/12/2023 0:31,Settings,Configure Notifications,Customer 12,Tablet,Safari,Jaipur,India,macOS
+1011,7/13/2023 20:23,Settings,Change Password,Customer 92,Desktop,Edge,Chennai,India,Windows
+1046,7/14/2023 7:06,Pricing Calculator,Adjust Pricing Strategy,Customer 35,Desktop,Safari,Delhi,India,Linux
+1031,7/17/2023 2:27,Product Management,Add New Product,Customer 89,Tablet,Safari,Lucknow,India,Linux
+1018,7/17/2023 15:30,Product Management,Update Product Info,Customer 14,Desktop,Safari,Mumbai,India,Android
+1017,7/18/2023 23:20,Product Management,Delete Product,Customer 8,Tablet,Edge,Bangalore,India,iOS
+1075,7/19/2023 2:18,Digital Gold Plans,View Plan Details,Customer 25,Mobile,Safari,Pune,India,Linux
+1018,7/19/2023 8:19,Pricing Calculator,Calculate Price,Customer 66,Tablet,Firefox,Chennai,India,Windows
+1080,7/19/2023 13:47,Analytics,View Sales Analytics,Customer 100,Tablet,Edge,Kolkata,India,macOS
+1023,7/20/2023 7:06,Product Management,Delete Product,Customer 83,Mobile,Firefox,Pune,India,Android
+1096,7/20/2023 10:59,Pricing Calculator,Compare Prices,Customer 41,Tablet,Firefox,Mumbai,India,macOS
+1047,7/20/2023 18:01,Dashboard,View Sales Summary,Customer 56,Mobile,Safari,Pune,India,Windows
+1065,7/21/2023 1:31,Catalog Creation,Create New Catalog,Customer 66,Mobile,Firefox,Ahmedabad,India,macOS
+1015,7/21/2023 4:49,Orders,Update Order Status,Customer 28,Mobile,Safari,Chennai,India,Windows
+1053,7/21/2023 9:19,Orders,Create New Order,Customer 16,Tablet,Firefox,Jaipur,India,iOS
+1046,7/21/2023 21:11,Digital Gold Plans,Enroll in Plan,Customer 16,Mobile,Firefox,Delhi,India,Windows
+1007,7/22/2023 1:39,Pricing Calculator,Calculate Price,Customer 42,Mobile,Chrome,Lucknow,India,iOS
+1087,7/23/2023 18:15,Pricing Calculator,Calculate Price,Customer 78,Tablet,Firefox,Kolkata,India,iOS
+1051,7/24/2023 6:56,Digital Gold Plans,Enroll in Plan,Customer 7,Mobile,Safari,Lucknow,India,iOS
+1066,7/24/2023 10:32,Pricing Calculator,Adjust Pricing Strategy,Customer 97,Tablet,Chrome,Kolkata,India,macOS
+1004,7/24/2023 22:28,Orders,Create New Order,Customer 93,Tablet,Chrome,Kolkata,India,macOS
+1061,7/25/2023 11:58,Dashboard,View Sales Summary,Customer 57,Tablet,Edge,Mumbai,India,macOS
+1032,7/25/2023 13:01,Analytics,Analyze Customer Trends,Customer 53,Tablet,Edge,Jaipur,India,Android
+1032,7/25/2023 21:19,Pricing Calculator,Compare Prices,Customer 7,Desktop,Firefox,Lucknow,India,Android
+1066,7/26/2023 3:42,Analytics,Generate Reports,Customer 79,Mobile,Safari,Kolkata,India,Linux
+1042,7/26/2023 5:47,Pricing Calculator,Adjust Pricing Strategy,Customer 32,Tablet,Chrome,Mumbai,India,Android
+1042,7/26/2023 10:30,Product Management,Add New Product,Customer 7,Mobile,Firefox,Jaipur,India,macOS
+1035,7/26/2023 14:41,Customer Orders,Track Order Status,Customer 34,Mobile,Edge,Lucknow,India,Android
+1064,7/27/2023 11:20,Settings,Update Profile,Customer 59,Desktop,Firefox,Pune,India,Android
+1010,7/27/2023 21:22,Orders,Update Order Status,Customer 47,Desktop,Chrome,Mumbai,India,Android
+1076,7/28/2023 20:05,Settings,Configure Notifications,Customer 27,Desktop,Edge,Mumbai,India,Linux
+1086,7/30/2023 19:26,Orders,Create New Order,Customer 52,Mobile,Safari,Ahmedabad,India,iOS
+1052,7/31/2023 19:18,Pricing Calculator,Calculate Price,Customer 33,Mobile,Firefox,Chennai,India,macOS
+1040,7/31/2023 22:37,CRM,View Customer History,Customer 61,Tablet,Firefox,Kolkata,India,macOS
+1087,8/3/2023 15:42,Pricing Calculator,Compare Prices,Customer 47,Mobile,Firefox,Chennai,India,Linux
+1055,8/5/2023 6:46,Customer Orders,Generate Order Report,Customer 96,Desktop,Safari,Delhi,India,Windows
+1057,8/5/2023 7:02,CRM,Add New Customer,Customer 8,Mobile,Safari,Hyderabad,India,iOS
+1005,8/6/2023 0:39,Dashboard,Check KPIs,Customer 50,Desktop,Firefox,Chennai,India,Linux
+1069,8/6/2023 4:27,Digital Gold Plans,Enroll in Plan,Customer 40,Desktop,Firefox,Pune,India,macOS
+1059,8/6/2023 8:56,Digital Gold Plans,Update Plan,Customer 66,Desktop,Safari,Ahmedabad,India,Android
+1002,8/6/2023 11:31,Dashboard,Check KPIs,Customer 6,Desktop,Firefox,Ahmedabad,India,Linux
+1093,8/6/2023 11:38,Catalog Creation,Create New Catalog,Customer 28,Desktop,Firefox,Mumbai,India,Windows
+1021,8/6/2023 16:21,Customer Orders,Track Order Status,Customer 39,Desktop,Safari,Chennai,India,Linux
+1064,8/6/2023 18:12,Digital Gold Plans,View Plan Details,Customer 46,Desktop,Chrome,Delhi,India,Windows
+1011,8/8/2023 5:55,Orders,Update Order Status,Customer 24,Mobile,Chrome,Delhi,India,Linux
+1050,8/8/2023 9:39,Digital Gold Plans,View Plan Details,Customer 13,Mobile,Firefox,Delhi,India,Windows
+1012,8/8/2023 21:11,Orders,Cancel Order,Customer 10,Tablet,Safari,Ahmedabad,India,Linux
+1055,8/8/2023 23:12,Catalog Creation,Create New Catalog,Customer 30,Tablet,Firefox,Pune,India,Windows
+1088,8/11/2023 9:57,Settings,Update Profile,Customer 30,Tablet,Edge,Pune,India,Windows
+1050,8/12/2023 17:17,Customer Orders,View Order Details,Customer 14,Desktop,Firefox,Delhi,India,Linux
+1006,8/13/2023 2:39,Product Management,Delete Product,Customer 88,Mobile,Firefox,Hyderabad,India,macOS
+1037,8/13/2023 22:13,Customer Orders,View Order Details,Customer 25,Mobile,Chrome,Hyderabad,India,Linux
+1034,8/14/2023 5:04,Dashboard,Check KPIs,Customer 10,Mobile,Edge,Pune,India,macOS
+1058,8/14/2023 7:31,Dashboard,View Sales Summary,Customer 69,Tablet,Edge,Chennai,India,Windows
+1091,8/14/2023 20:18,Customer Orders,Track Order Status,Customer 38,Desktop,Chrome,Chennai,India,Linux
+1015,8/15/2023 8:30,Pricing Calculator,Compare Prices,Customer 57,Mobile,Firefox,Delhi,India,Windows
+1050,8/15/2023 8:51,Settings,Change Password,Customer 76,Tablet,Safari,Chennai,India,macOS
+1062,8/15/2023 9:32,Pricing Calculator,Adjust Pricing Strategy,Customer 87,Tablet,Chrome,Hyderabad,India,Linux
+1009,8/16/2023 6:13,Customer Orders,View Order Details,Customer 61,Mobile,Safari,Kolkata,India,Linux
+1039,8/16/2023 23:19,Dashboard,Review Performance Metrics,Customer 25,Mobile,Safari,Chennai,India,Linux
+1043,8/17/2023 3:59,Analytics,Analyze Customer Trends,Customer 53,Mobile,Edge,Mumbai,India,iOS
+1037,8/17/2023 18:28,Catalog Creation,Create New Catalog,Customer 54,Mobile,Edge,Delhi,India,macOS
+1004,8/18/2023 10:13,Customer Orders,Generate Order Report,Customer 99,Mobile,Safari,Delhi,India,Windows
+1093,8/21/2023 4:35,Catalog Creation,Publish Catalog,Customer 47,Tablet,Firefox,Delhi,India,Windows
+1062,8/21/2023 6:33,Analytics,Analyze Customer Trends,Customer 34,Mobile,Edge,Jaipur,India,Linux
+1066,8/21/2023 17:24,Pricing Calculator,Compare Prices,Customer 14,Tablet,Chrome,Lucknow,India,Android
+1086,8/22/2023 12:03,CRM,Update Customer Info,Customer 98,Tablet,Safari,Bangalore,India,Android
+1042,8/23/2023 6:39,Digital Gold Plans,Enroll in Plan,Customer 72,Mobile,Firefox,Kolkata,India,iOS
+1055,8/23/2023 9:11,Pricing Calculator,Adjust Pricing Strategy,Customer 13,Mobile,Firefox,Bangalore,India,Windows
+1060,8/24/2023 11:56,Digital Gold Plans,View Plan Details,Customer 74,Tablet,Firefox,Hyderabad,India,Linux
+1063,8/24/2023 17:39,Pricing Calculator,Adjust Pricing Strategy,Customer 47,Mobile,Safari,Mumbai,India,iOS
+1042,8/26/2023 18:28,Orders,Update Order Status,Customer 30,Tablet,Safari,Jaipur,India,Linux
+1035,8/28/2023 13:29,Orders,Cancel Order,Customer 13,Mobile,Edge,Hyderabad,India,Windows
+1015,8/28/2023 23:54,Customer Orders,Track Order Status,Customer 56,Desktop,Firefox,Ahmedabad,India,Android
+1047,8/29/2023 0:56,Customer Orders,Generate Order Report,Customer 49,Mobile,Edge,Chennai,India,macOS
+1071,8/29/2023 23:15,Orders,Create New Order,Customer 36,Mobile,Chrome,Delhi,India,macOS
+1068,8/30/2023 5:02,CRM,Add New Customer,Customer 35,Desktop,Firefox,Pune,India,Linux
+1072,8/31/2023 7:42,Dashboard,View Sales Summary,Customer 59,Desktop,Edge,Chennai,India,iOS
+1027,9/1/2023 11:08,Catalog Creation,Edit Catalog,Customer 61,Mobile,Safari,Pune,India,macOS
+1093,9/2/2023 1:02,Customer Orders,Track Order Status,Customer 2,Mobile,Edge,Delhi,India,iOS
+1052,9/2/2023 21:18,Catalog Creation,Publish Catalog,Customer 18,Desktop,Edge,Lucknow,India,Windows
+1047,9/3/2023 4:13,CRM,View Customer History,Customer 44,Tablet,Edge,Delhi,India,Linux
+1039,9/3/2023 14:14,Settings,Update Profile,Customer 56,Desktop,Chrome,Mumbai,India,iOS
+1026,9/3/2023 19:29,Pricing Calculator,Compare Prices,Customer 10,Mobile,Chrome,Bangalore,India,Linux
+1066,9/4/2023 10:20,Product Management,Update Product Info,Customer 56,Desktop,Chrome,Delhi,India,macOS
+1074,9/7/2023 13:28,Product Management,Update Product Info,Customer 17,Desktop,Firefox,Lucknow,India,Android
+1039,9/8/2023 15:28,Analytics,Analyze Customer Trends,Customer 68,Mobile,Chrome,Kolkata,India,Windows
+1057,9/8/2023 15:59,Orders,Create New Order,Customer 42,Desktop,Chrome,Ahmedabad,India,macOS
+1098,9/8/2023 16:24,CRM,Update Customer Info,Customer 87,Tablet,Safari,Kolkata,India,Linux
+1055,9/8/2023 23:14,CRM,Update Customer Info,Customer 48,Desktop,Firefox,Lucknow,India,iOS
+1003,9/9/2023 16:16,CRM,Add New Customer,Customer 85,Desktop,Chrome,Lucknow,India,Linux
+1048,9/9/2023 17:24,Digital Gold Plans,Enroll in Plan,Customer 89,Desktop,Edge,Delhi,India,iOS
+1004,9/11/2023 21:03,Analytics,Generate Reports,Customer 98,Desktop,Edge,Kolkata,India,Linux
+1009,9/14/2023 21:35,Digital Gold Plans,Enroll in Plan,Customer 59,Tablet,Chrome,Mumbai,India,Windows
+1047,9/17/2023 7:08,Orders,Cancel Order,Customer 85,Mobile,Safari,Kolkata,India,Android
+1088,9/17/2023 9:45,Catalog Creation,Create New Catalog,Customer 86,Mobile,Safari,Mumbai,India,iOS
+1049,9/17/2023 16:51,Digital Gold Plans,Enroll in Plan,Customer 37,Mobile,Edge,Hyderabad,India,macOS
+1018,9/18/2023 22:36,Catalog Creation,Edit Catalog,Customer 13,Mobile,Chrome,Pune,India,Android
+1002,9/19/2023 3:27,Catalog Creation,Edit Catalog,Customer 27,Mobile,Chrome,Kolkata,India,Windows
+1005,9/20/2023 21:53,Pricing Calculator,Calculate Price,Customer 3,Mobile,Chrome,Mumbai,India,iOS
+1090,9/21/2023 19:41,Settings,Change Password,Customer 23,Mobile,Chrome,Kolkata,India,Linux
+1007,9/23/2023 10:14,Analytics,Generate Reports,Customer 47,Tablet,Edge,Chennai,India,Linux
+1057,9/24/2023 9:02,Catalog Creation,Create New Catalog,Customer 84,Desktop,Firefox,Bangalore,India,Android
+1061,9/25/2023 6:57,Dashboard,Review Performance Metrics,Customer 19,Desktop,Edge,Lucknow,India,Linux
+1018,9/26/2023 21:16,Settings,Update Profile,Customer 35,Mobile,Edge,Kolkata,India,Android
+1030,9/27/2023 7:14,Pricing Calculator,Calculate Price,Customer 96,Mobile,Chrome,Hyderabad,India,Android
+1039,9/28/2023 13:55,Analytics,View Sales Analytics,Customer 68,Desktop,Firefox,Ahmedabad,India,macOS
+1016,9/28/2023 21:55,Product Management,Add New Product,Customer 1,Desktop,Edge,Jaipur,India,macOS
+1002,9/29/2023 5:28,Analytics,View Sales Analytics,Customer 28,Desktop,Edge,Mumbai,India,macOS
+1017,9/30/2023 17:07,Orders,Update Order Status,Customer 49,Tablet,Firefox,Mumbai,India,Linux
+1057,10/1/2023 2:43,Product Management,Delete Product,Customer 87,Mobile,Chrome,Bangalore,India,iOS
+1008,10/1/2023 4:24,Digital Gold Plans,Enroll in Plan,Customer 4,Mobile,Chrome,Kolkata,India,iOS
+1013,10/1/2023 14:02,Dashboard,Check KPIs,Customer 97,Mobile,Safari,Hyderabad,India,macOS
+1031,10/2/2023 14:55,Pricing Calculator,Calculate Price,Customer 12,Tablet,Firefox,Hyderabad,India,macOS
+1032,10/3/2023 22:13,Settings,Update Profile,Customer 89,Desktop,Edge,Bangalore,India,iOS
+1067,10/4/2023 4:17,Dashboard,Review Performance Metrics,Customer 29,Mobile,Firefox,Delhi,India,macOS
+1002,10/5/2023 3:48,Analytics,View Sales Analytics,Customer 41,Desktop,Chrome,Bangalore,India,Android
+1021,10/5/2023 6:24,Settings,Configure Notifications,Customer 74,Mobile,Chrome,Bangalore,India,Windows
+1036,10/5/2023 10:54,Catalog Creation,Create New Catalog,Customer 3,Desktop,Edge,Hyderabad,India,Android
+1045,10/6/2023 16:32,Catalog Creation,Edit Catalog,Customer 79,Tablet,Edge,Bangalore,India,iOS
+1044,10/8/2023 11:59,CRM,Add New Customer,Customer 60,Mobile,Chrome,Chennai,India,macOS
+1092,10/8/2023 14:44,Orders,Update Order Status,Customer 11,Mobile,Chrome,Kolkata,India,Windows
+1093,10/8/2023 15:31,CRM,Update Customer Info,Customer 5,Desktop,Safari,Hyderabad,India,macOS
+1072,10/12/2023 14:12,Dashboard,Check KPIs,Customer 74,Mobile,Chrome,Delhi,India,Android
+1079,10/14/2023 4:56,Digital Gold Plans,View Plan Details,Customer 91,Tablet,Safari,Bangalore,India,macOS
+1014,10/14/2023 5:23,Product Management,Add New Product,Customer 9,Desktop,Chrome,Hyderabad,India,Android
+1004,10/16/2023 19:42,Product Management,Add New Product,Customer 38,Mobile,Edge,Lucknow,India,Windows
+1021,10/17/2023 17:23,Catalog Creation,Edit Catalog,Customer 99,Desktop,Chrome,Ahmedabad,India,Linux
+1029,10/17/2023 21:17,Orders,Update Order Status,Customer 92,Desktop,Firefox,Hyderabad,India,Linux
+1022,10/18/2023 0:47,Dashboard,Review Performance Metrics,Customer 59,Mobile,Chrome,Delhi,India,Windows
+1018,10/18/2023 9:00,Dashboard,View Sales Summary,Customer 59,Desktop,Edge,Jaipur,India,macOS
+1077,10/18/2023 10:01,Catalog Creation,Publish Catalog,Customer 50,Desktop,Firefox,Delhi,India,Linux
+1042,10/18/2023 16:27,Digital Gold Plans,View Plan Details,Customer 20,Desktop,Edge,Mumbai,India,Android
+1076,10/19/2023 2:25,Product Management,Delete Product,Customer 36,Tablet,Firefox,Delhi,India,Linux
+1005,10/20/2023 8:51,CRM,View Customer History,Customer 37,Tablet,Chrome,Lucknow,India,Android
+1063,10/21/2023 4:36,Dashboard,Check KPIs,Customer 75,Tablet,Edge,Bangalore,India,Windows
+1034,10/21/2023 11:58,Pricing Calculator,Adjust Pricing Strategy,Customer 50,Mobile,Edge,Mumbai,India,Linux
+1001,10/21/2023 21:19,Catalog Creation,Publish Catalog,Customer 19,Desktop,Safari,Pune,India,Windows
+1044,10/22/2023 6:55,Digital Gold Plans,Enroll in Plan,Customer 5,Mobile,Firefox,Chennai,India,iOS
+1035,10/22/2023 10:15,Analytics,Analyze Customer Trends,Customer 89,Mobile,Chrome,Ahmedabad,India,Windows
+1092,10/22/2023 20:27,Dashboard,View Sales Summary,Customer 80,Tablet,Edge,Delhi,India,Linux
+1094,10/24/2023 17:34,Pricing Calculator,Calculate Price,Customer 50,Tablet,Safari,Jaipur,India,Android
+1060,10/24/2023 20:54,CRM,Update Customer Info,Customer 95,Desktop,Edge,Hyderabad,India,Windows
+1057,10/25/2023 4:01,Analytics,Generate Reports,Customer 14,Mobile,Edge,Delhi,India,Linux
+1045,10/26/2023 6:30,Customer Orders,Track Order Status,Customer 52,Mobile,Firefox,Hyderabad,India,macOS
+1004,10/26/2023 20:44,Digital Gold Plans,View Plan Details,Customer 17,Desktop,Firefox,Ahmedabad,India,Android
+1022,10/29/2023 3:23,Catalog Creation,Edit Catalog,Customer 56,Tablet,Firefox,Hyderabad,India,macOS
+1003,10/30/2023 0:11,Catalog Creation,Edit Catalog,Customer 76,Tablet,Firefox,Bangalore,India,macOS
+1099,10/30/2023 7:19,Dashboard,Review Performance Metrics,Customer 62,Tablet,Safari,Jaipur,India,iOS
+1029,10/31/2023 1:20,CRM,Add New Customer,Customer 99,Tablet,Safari,Hyderabad,India,Windows
+1039,10/31/2023 23:00,Product Management,Delete Product,Customer 18,Desktop,Chrome,Delhi,India,macOS
+1028,11/1/2023 4:29,Product Management,Add New Product,Customer 71,Desktop,Firefox,Hyderabad,India,Android
+1046,11/2/2023 6:49,Dashboard,Check KPIs,Customer 25,Desktop,Firefox,Lucknow,India,macOS
+1008,11/3/2023 1:18,Pricing Calculator,Adjust Pricing Strategy,Customer 94,Desktop,Firefox,Hyderabad,India,iOS
+1072,11/4/2023 6:11,Orders,Update Order Status,Customer 94,Desktop,Firefox,Pune,India,Linux
+1072,11/5/2023 18:36,Customer Orders,Track Order Status,Customer 67,Tablet,Firefox,Chennai,India,Android
+1054,11/7/2023 1:46,Settings,Change Password,Customer 76,Tablet,Firefox,Jaipur,India,Android
+1049,11/7/2023 2:30,Dashboard,Review Performance Metrics,Customer 47,Mobile,Safari,Kolkata,India,Linux
+1030,11/7/2023 21:46,Orders,Update Order Status,Customer 41,Tablet,Firefox,Jaipur,India,iOS
+1007,11/8/2023 1:15,Catalog Creation,Create New Catalog,Customer 82,Mobile,Edge,Bangalore,India,iOS
+1028,11/9/2023 16:04,Settings,Change Password,Customer 40,Tablet,Edge,Bangalore,India,Windows
+1072,11/11/2023 5:45,Catalog Creation,Publish Catalog,Customer 10,Tablet,Safari,Delhi,India,Android
+1041,11/11/2023 14:32,Orders,Cancel Order,Customer 27,Desktop,Edge,Hyderabad,India,Windows
+1019,11/11/2023 17:48,Orders,Update Order Status,Customer 21,Tablet,Chrome,Ahmedabad,India,macOS
+1008,11/12/2023 7:14,Pricing Calculator,Calculate Price,Customer 58,Mobile,Safari,Bangalore,India,Windows
+1026,11/13/2023 0:28,Pricing Calculator,Compare Prices,Customer 69,Desktop,Chrome,Kolkata,India,Windows
+1018,11/13/2023 11:21,Pricing Calculator,Adjust Pricing Strategy,Customer 67,Desktop,Edge,Jaipur,India,Linux
+1086,11/13/2023 13:36,CRM,Update Customer Info,Customer 53,Tablet,Chrome,Mumbai,India,Windows
+1079,11/13/2023 22:30,Product Management,Update Product Info,Customer 40,Desktop,Edge,Pune,India,macOS
+1045,11/14/2023 8:09,Digital Gold Plans,Update Plan,Customer 84,Mobile,Safari,Pune,India,Windows
+1027,11/14/2023 8:20,Settings,Configure Notifications,Customer 64,Mobile,Safari,Delhi,India,iOS
+1065,11/14/2023 17:02,Product Management,Delete Product,Customer 8,Mobile,Firefox,Mumbai,India,Windows
+1019,11/15/2023 2:07,Customer Orders,Generate Order Report,Customer 32,Mobile,Edge,Ahmedabad,India,Linux
+1022,11/15/2023 3:41,Customer Orders,View Order Details,Customer 97,Desktop,Firefox,Pune,India,Linux
+1057,11/15/2023 13:41,Customer Orders,Track Order Status,Customer 69,Mobile,Chrome,Kolkata,India,Linux
+1039,11/18/2023 18:42,Customer Orders,Generate Order Report,Customer 28,Mobile,Edge,Jaipur,India,Windows
+1094,11/19/2023 16:37,Catalog Creation,Publish Catalog,Customer 25,Mobile,Edge,Pune,India,macOS
+1061,11/19/2023 17:31,Settings,Change Password,Customer 56,Tablet,Chrome,Pune,India,Android
+1091,11/19/2023 23:37,Settings,Update Profile,Customer 9,Tablet,Edge,Jaipur,India,Linux
+1004,11/23/2023 13:31,Analytics,Generate Reports,Customer 45,Desktop,Safari,Delhi,India,Windows
+1038,11/24/2023 22:10,Pricing Calculator,Adjust Pricing Strategy,Customer 54,Mobile,Chrome,Jaipur,India,Android
+1044,11/24/2023 23:39,Analytics,View Sales Analytics,Customer 91,Desktop,Firefox,Jaipur,India,iOS
+1054,11/25/2023 9:23,Catalog Creation,Create New Catalog,Customer 39,Tablet,Safari,Hyderabad,India,iOS
+1056,11/25/2023 10:26,Analytics,Generate Reports,Customer 28,Tablet,Edge,Ahmedabad,India,Linux
+1080,11/25/2023 11:33,Dashboard,Review Performance Metrics,Customer 99,Desktop,Firefox,Lucknow,India,Linux
+1057,11/26/2023 4:33,Product Management,Delete Product,Customer 44,Tablet,Safari,Jaipur,India,iOS
+1051,11/27/2023 14:08,Product Management,Update Product Info,Customer 77,Mobile,Edge,Ahmedabad,India,Linux
+1093,11/28/2023 21:21,Customer Orders,Generate Order Report,Customer 9,Tablet,Edge,Jaipur,India,iOS
+1036,12/1/2023 7:19,Digital Gold Plans,Enroll in Plan,Customer 41,Mobile,Edge,Delhi,India,Windows
+1071,12/1/2023 12:46,CRM,Add New Customer,Customer 33,Tablet,Chrome,Pune,India,Android
+1087,12/2/2023 0:22,Dashboard,View Sales Summary,Customer 65,Tablet,Chrome,Lucknow,India,Windows
+1070,12/2/2023 5:50,Product Management,Delete Product,Customer 82,Desktop,Edge,Mumbai,India,iOS
+1067,12/2/2023 11:44,CRM,View Customer History,Customer 77,Tablet,Edge,Chennai,India,Windows
+1048,12/2/2023 12:25,Product Management,Add New Product,Customer 17,Desktop,Firefox,Hyderabad,India,iOS
+1010,12/3/2023 18:57,Orders,Update Order Status,Customer 76,Mobile,Edge,Lucknow,India,Windows
+1097,12/4/2023 7:14,Customer Orders,Generate Order Report,Customer 80,Desktop,Chrome,Pune,India,Android
+1006,12/4/2023 10:33,Orders,Create New Order,Customer 93,Tablet,Edge,Ahmedabad,India,iOS
+1094,12/4/2023 21:55,Settings,Change Password,Customer 52,Mobile,Edge,Ahmedabad,India,Linux
+1038,12/5/2023 0:01,Orders,Create New Order,Customer 65,Desktop,Safari,Ahmedabad,India,Linux
+1096,12/5/2023 18:45,Dashboard,Review Performance Metrics,Customer 93,Desktop,Firefox,Pune,India,Linux
+1006,12/6/2023 20:10,Customer Orders,Track Order Status,Customer 37,Desktop,Edge,Chennai,India,iOS
+1100,12/7/2023 5:40,Product Management,Update Product Info,Customer 61,Desktop,Firefox,Chennai,India,Linux
+1094,12/10/2023 0:49,Product Management,Delete Product,Customer 19,Tablet,Chrome,Jaipur,India,macOS
+1039,12/11/2023 14:07,Dashboard,Review Performance Metrics,Customer 82,Mobile,Chrome,Mumbai,India,Android
+1026,12/12/2023 12:05,CRM,View Customer History,Customer 26,Desktop,Safari,Bangalore,India,macOS
+1029,12/13/2023 12:57,Digital Gold Plans,View Plan Details,Customer 41,Desktop,Edge,Jaipur,India,iOS
+1080,12/13/2023 22:19,Analytics,View Sales Analytics,Customer 26,Desktop,Chrome,Chennai,India,iOS
+1012,12/14/2023 0:34,Settings,Update Profile,Customer 5,Tablet,Edge,Hyderabad,India,Android
+1057,12/14/2023 11:59,Customer Orders,View Order Details,Customer 11,Tablet,Firefox,Mumbai,India,Windows
+1042,12/15/2023 11:46,Catalog Creation,Publish Catalog,Customer 98,Desktop,Safari,Hyderabad,India,Android
+1014,12/15/2023 15:47,Settings,Configure Notifications,Customer 87,Desktop,Edge,Mumbai,India,macOS
+1006,12/16/2023 14:34,Settings,Update Profile,Customer 98,Mobile,Firefox,Kolkata,India,macOS
+1083,12/16/2023 17:49,Digital Gold Plans,Update Plan,Customer 83,Mobile,Firefox,Ahmedabad,India,macOS
+1008,12/18/2023 2:25,Catalog Creation,Publish Catalog,Customer 36,Tablet,Firefox,Delhi,India,macOS
+1054,12/18/2023 9:18,Dashboard,View Sales Summary,Customer 85,Desktop,Edge,Bangalore,India,Windows
+1061,12/18/2023 17:39,Product Management,Add New Product,Customer 6,Tablet,Chrome,Delhi,India,iOS
+1097,12/19/2023 0:18,Dashboard,Review Performance Metrics,Customer 59,Desktop,Edge,Hyderabad,India,iOS
+1057,12/19/2023 13:02,Analytics,Analyze Customer Trends,Customer 100,Mobile,Edge,Chennai,India,Android
+1051,12/19/2023 16:56,Product Management,Delete Product,Customer 48,Mobile,Edge,Bangalore,India,iOS
+1020,12/20/2023 5:03,Digital Gold Plans,View Plan Details,Customer 78,Tablet,Safari,Ahmedabad,India,iOS
+1047,12/20/2023 21:22,Customer Orders,Track Order Status,Customer 31,Tablet,Safari,Hyderabad,India,iOS
+1076,12/21/2023 2:31,Analytics,Analyze Customer Trends,Customer 12,Tablet,Chrome,Ahmedabad,India,Windows
+1011,12/21/2023 6:48,Pricing Calculator,Compare Prices,Customer 9,Mobile,Chrome,Delhi,India,Windows
+1033,12/23/2023 0:45,CRM,Update Customer Info,Customer 27,Desktop,Chrome,Delhi,India,iOS
+1016,12/24/2023 4:55,Product Management,Delete Product,Customer 96,Desktop,Chrome,Pune,India,macOS
+1038,12/24/2023 12:36,Catalog Creation,Create New Catalog,Customer 91,Tablet,Firefox,Chennai,India,iOS
+1086,12/25/2023 11:49,CRM,Update Customer Info,Customer 51,Desktop,Firefox,Lucknow,India,Android
+1004,12/26/2023 4:24,Settings,Change Password,Customer 20,Desktop,Chrome,Hyderabad,India,Linux
+1070,12/26/2023 8:22,Catalog Creation,Edit Catalog,Customer 56,Tablet,Firefox,Delhi,India,Android
+1026,12/27/2023 6:30,Customer Orders,Generate Order Report,Customer 32,Mobile,Edge,Mumbai,India,Linux
+1064,12/30/2023 4:42,Dashboard,View Sales Summary,Customer 71,Tablet,Firefox,Delhi,India,Windows
+1017,12/30/2023 19:11,Pricing Calculator,Compare Prices,Customer 52,Tablet,Edge,Jaipur,India,Windows
+1033,12/31/2023 2:05,Catalog Creation,Edit Catalog,Customer 38,Tablet,Chrome,Mumbai,India,iOS
+1067,12/31/2023 2:50,Customer Orders,Generate Order Report,Customer 12,Desktop,Firefox,Lucknow,India,Linux
+1064,12/31/2023 21:57,Catalog Creation,Edit Catalog,Customer 80,Tablet,Chrome,Chennai,India,Windows
+1087,1/1/2024 8:32,Orders,Create New Order,Customer 45,Tablet,Safari,Ahmedabad,India,Windows
+1026,1/1/2024 11:05,Settings,Update Profile,Customer 54,Mobile,Edge,Jaipur,India,iOS
+1084,1/1/2024 12:46,Catalog Creation,Edit Catalog,Customer 5,Mobile,Safari,Ahmedabad,India,Windows
+1041,1/1/2024 14:03,Customer Orders,Generate Order Report,Customer 100,Tablet,Edge,Delhi,India,Linux
+1009,1/2/2024 19:35,CRM,Add New Customer,Customer 18,Mobile,Chrome,Ahmedabad,India,Android
+1055,1/3/2024 10:12,Orders,Cancel Order,Customer 26,Tablet,Firefox,Lucknow,India,Windows
+1023,1/3/2024 13:38,Customer Orders,View Order Details,Customer 55,Mobile,Edge,Lucknow,India,macOS
+1070,1/3/2024 23:07,Pricing Calculator,Calculate Price,Customer 77,Tablet,Chrome,Delhi,India,Windows
+1065,1/4/2024 10:44,CRM,Update Customer Info,Customer 1,Mobile,Edge,Chennai,India,Android
+1073,1/7/2024 12:24,Pricing Calculator,Calculate Price,Customer 97,Desktop,Safari,Delhi,India,iOS
+1063,1/7/2024 15:29,Customer Orders,Track Order Status,Customer 71,Mobile,Edge,Delhi,India,iOS
+1023,1/8/2024 19:34,CRM,Add New Customer,Customer 100,Mobile,Safari,Kolkata,India,Android
+1037,1/9/2024 5:39,Analytics,View Sales Analytics,Customer 42,Tablet,Chrome,Mumbai,India,iOS
+1056,1/10/2024 10:37,Digital Gold Plans,Enroll in Plan,Customer 84,Mobile,Chrome,Chennai,India,Windows
+1037,1/10/2024 10:48,Product Management,Update Product Info,Customer 100,Mobile,Chrome,Lucknow,India,Linux
+1058,1/11/2024 12:45,Pricing Calculator,Calculate Price,Customer 94,Desktop,Firefox,Jaipur,India,Windows
+1055,1/12/2024 4:15,Catalog Creation,Create New Catalog,Customer 88,Tablet,Chrome,Chennai,India,Linux
+1007,1/13/2024 18:50,Catalog Creation,Publish Catalog,Customer 26,Desktop,Chrome,Ahmedabad,India,macOS
+1071,1/14/2024 3:18,Customer Orders,Generate Order Report,Customer 85,Tablet,Edge,Kolkata,India,Android
+1040,1/15/2024 14:54,Pricing Calculator,Calculate Price,Customer 45,Tablet,Firefox,Mumbai,India,Android
+1059,1/16/2024 15:24,Catalog Creation,Edit Catalog,Customer 73,Tablet,Edge,Bangalore,India,Windows
+1005,1/16/2024 22:43,Catalog Creation,Publish Catalog,Customer 39,Mobile,Firefox,Bangalore,India,iOS
+1088,1/17/2024 6:44,Pricing Calculator,Compare Prices,Customer 87,Tablet,Edge,Delhi,India,Android
+1035,1/17/2024 10:59,Customer Orders,View Order Details,Customer 51,Desktop,Safari,Ahmedabad,India,Linux
+1044,1/18/2024 4:34,Catalog Creation,Publish Catalog,Customer 16,Mobile,Safari,Delhi,India,iOS
+1070,1/18/2024 21:05,Dashboard,Check KPIs,Customer 5,Tablet,Chrome,Lucknow,India,Linux
+1071,1/19/2024 13:22,Customer Orders,Track Order Status,Customer 76,Tablet,Safari,Hyderabad,India,Android
+1006,1/21/2024 1:19,Settings,Configure Notifications,Customer 27,Mobile,Safari,Ahmedabad,India,Linux
+1078,1/25/2024 8:36,Dashboard,View Sales Summary,Customer 76,Desktop,Firefox,Hyderabad,India,macOS
+1010,1/25/2024 20:33,Digital Gold Plans,Enroll in Plan,Customer 27,Desktop,Edge,Pune,India,Linux
+1072,1/26/2024 3:58,Customer Orders,Generate Order Report,Customer 77,Mobile,Firefox,Ahmedabad,India,Windows
+1072,1/27/2024 22:16,Settings,Change Password,Customer 29,Mobile,Firefox,Lucknow,India,macOS
